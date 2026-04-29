@@ -59,5 +59,6 @@ Step 7: Finalize and Export
 
 # Output
 
+[Comprehensive Report on the Fundamentals of Generative AI and Large Language Models.pdf](https://github.com/user-attachments/files/27190022/Comprehensive.Report.on.the.Fundamentals.of.Generative.AI.and.Large.Language.Models.pdf)
 
 # Result
